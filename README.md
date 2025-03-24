@@ -1,5 +1,4 @@
 # ETL-Countries-Normas_ISO
-# API Geográfica ISO
 
 Esto proyecto cuyo objetivo es ofrecer información geográfica detallada y estandarizada de países, regiones y ciudades. La API se alimenta de datos provenientes de fuentes públicas como Geonames y RestCountries, y está diseñada siguiendo las normas ISO para países y divisiones administrativas.
 
