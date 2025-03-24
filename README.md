@@ -34,4 +34,3 @@ Esto proyecto cuyo objetivo es ofrecer información geográfica detallada y esta
    ```bash
    git clone https://github.com/tu_usuario/tu_repositorio.git
    cd tu_repositorio
-```
