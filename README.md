@@ -1,7 +1,7 @@
 # ETL-Countries-Normas_ISO
 # API Geográfica ISO
 
-Este proyecto es una API REST construida con Django y Django REST Framework, cuyo objetivo es ofrecer información geográfica detallada y estandarizada de países, regiones y ciudades. La API se alimenta de datos provenientes de fuentes públicas como Geonames y RestCountries, y está diseñada siguiendo las normas ISO para países y divisiones administrativas.
+Esto proyecto cuyo objetivo es ofrecer información geográfica detallada y estandarizada de países, regiones y ciudades. La API se alimenta de datos provenientes de fuentes públicas como Geonames y RestCountries, y está diseñada siguiendo las normas ISO para países y divisiones administrativas.
 
 ## Características
 
@@ -14,17 +14,9 @@ Este proyecto es una API REST construida con Django y Django REST Framework, cuy
   - Extraer datos de Geonames y RestCountries.
   - Transformar y enriquecer la información (traducción de nombres, generación de URLs de banderas, incorporación de datos de divisas e idiomas).
   - Cargar los datos en archivos CSV, listos para ser importados en la base de datos.
-- **Integración con Django:**  
-  Un comando de Django permite importar los datos procesados de forma automatizada, actualizando los modelos **Country**, **CountryInfo**, **Region** y **City**.
-- **API REST Segura y Escalable:**  
-  Construida con Django REST Framework, la API permite operaciones CRUD sobre todos los modelos y se encuentra lista para integrarse con sistemas frontend o aplicaciones móviles.
 
-## Tecnologías Utilizadas
 
-- **Backend:**  
-  - Python 3
-  - Django
-  - Django REST Framework
+## Tecnologías Utilizada
 
 - **ETL y Procesamiento de Datos:**  
   - Pandas
