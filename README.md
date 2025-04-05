@@ -31,5 +31,5 @@ Esto proyecto cuyo objetivo es ofrecer información geográfica detallada y esta
 
 1. **Clonar el Repositorio:**
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git clone https://github.com/albt03z/ETL-Countries-Normas_ISO.git
+   cd ETL-Countries-Normas_ISO
